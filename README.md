@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lordpharz
-- 👀 I’m interested in Fron-End Developing 
+- 👀 I’m interested in Front-End Developing 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on building open projects
 - 📫 How to reach me @lordpharz on Twitter   and @Adebayo Elisha on linked-in.
